@@ -1,0 +1,15 @@
+{
+  "name": "codingproblems",
+  "version": "1.0.0",
+  "description": "A repository to practice and improve my problem-solving skills through coding challenges and logical problems",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
